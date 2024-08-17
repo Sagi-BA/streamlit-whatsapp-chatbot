@@ -32,7 +32,7 @@ class GroqClass:
         :return: Response from the Groq API or False if an error occurs.
         """
         # print(f"Start: groq send_prompt(user_message={user_message})")
-
+        # print(f"temperature: {temperature}")
         try:
             random.shuffle(self.groq_models)
             # print(f"Available models: {', '.join(self.groq_models)}")

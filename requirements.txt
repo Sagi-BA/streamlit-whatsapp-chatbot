@@ -6,3 +6,4 @@ Groq
 openai
 deep_translator
 requests
+filelock
