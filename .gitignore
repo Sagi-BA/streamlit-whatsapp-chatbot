@@ -1,0 +1,13 @@
+.env
+__pycache__/
+**/__pycache__/
+chatbot.code-workspace
+myenv
+examples
+tests/__init__.py
+chatbot.pem
+*.log
+**/uploads/
+**/uploads/**
+*.code-workspace
+**/tests/**

@@ -1,0 +1,8 @@
+# pip install -r requirements.txt
+streamlit
+python-dotenv
+whatsapp_chatbot_python
+Groq
+openai
+deep_translator
+requests
